@@ -8,11 +8,7 @@ Made by:
   <td align="center"><a href="https://github.com/Praneesh-Sharma"><kbd><img src="https://avatars3.githubusercontent.com/Praneesh-Sharma?size=100" width="100px;" alt=""/>
   </kbd><sub><b>Praneesh Sharma</b></sub></a><br /></td>
   
-  <td align="center"><a href="https://github.com/bing-chilling"><kbd><img src="https://avatars3.githubusercontent.com/bing-chilling?size=100" width="100px;" alt=""/
+  <td align="center"><a href="https://github.com/bing-chilling"><kbd><img src="https://avatars3.githubusercontent.com/bing-chilling?size=100" width="100px;" alt=""/>
   </kbd><sub><b>Mukul Mishra</b></sub></a><br /></td>
 </tr>
 
-<tr>
-   <td align="center"><a href="https://github.com/bing-chilling"><kbd><img src="https://avatars3.githubusercontent.com/bing-chilling?size=100" width="100px;" alt=""/
-  </kbd><sub><b>Mukul Mishra</b></sub></a><br /></td>
-</tr>
